@@ -1,4 +1,4 @@
-/* A Free Design by Bryant Smith (bryantsmith.com) */
+
 
 html, body {
 text-align: center;
@@ -10,6 +10,7 @@ body {
 	padding: 0;
 	background: #FFFFFF;
 	background-image:url(background.png);
+	background-size: contain;
 	text-align: left;
 	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
 	font-size: 13px;
@@ -110,7 +111,7 @@ width:497px;
 display:block;
 background-color:#FFFFFF;
 float:left;
-min-height:400px;
+
 clear:both;
 padding-left:15px;
 padding-right:15px;
